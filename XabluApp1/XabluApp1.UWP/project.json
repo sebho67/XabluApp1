@@ -1,0 +1,25 @@
+﻿{
+  "dependencies": {
+    "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.2",
+    "modernhttpclient": "2.4.2",
+    "MvvmCross": "5.2.0",
+    "MvvmCross.Binding": "5.2.0",
+    "MvvmCross.Core": "5.2.0",
+    "MvvmCross.Platform": "5.2.0",
+    "MvvmCross.Plugin.Json": "5.2.0",
+    "MvvmCross.Plugin.JsonLocalization": "5.2.0",
+    "MvvmCross.Plugin.Visibility": "5.2.0",
+    "Newtonsoft.Json": "10.0.3"
+  },
+  "frameworks": {
+    "uap10.0.10240": {}
+  },
+  "runtimes": {
+    "win10-arm": {},
+    "win10-arm-aot": {},
+    "win10-x86": {},
+    "win10-x86-aot": {},
+    "win10-x64": {},
+    "win10-x64-aot": {}
+  }
+}
